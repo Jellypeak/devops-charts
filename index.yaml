@@ -3,12 +3,12 @@ entries:
   common-deploy:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-25T12:15:44.881302148Z"
+    created: "2025-06-25T12:16:56.339055295Z"
     description: A Helm chart for Kubernetes
-    digest: d688ad8417dfc489720d7eeae8158fc695a2675d0df06b709a14c131cbf4352b
+    digest: 1b82e5ff8781653551e3153a10a2f6df9137acd6f5669c7d418c3d9d8282c4e4
     name: common-deploy
     type: application
     urls:
-    - https://jellypeak.github.io/ci-templates/common-deploy-0.1.0.tgz
+    - https://jellypeak.github.io/devops-charts/common-deploy-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-25T12:15:44.880814959Z"
+generated: "2025-06-25T12:16:56.338042145Z"
