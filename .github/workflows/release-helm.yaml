@@ -7,7 +7,7 @@ on:
 
 jobs:
   call-release:
-    uses: Jellypeak/ci-templates/.github/workflows/helm-release-template.yaml@0.0.1
+    uses: Jellypeak/ci-templates/.github/workflows/helm-release-template.yaml@0.0.3
     with:
-      chart_path: charts/common-deploy
+      chart_path: charts
       repo_url: https://jellypeak.github.io/devops-charts
